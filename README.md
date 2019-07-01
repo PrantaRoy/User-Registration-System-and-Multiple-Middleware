@@ -1,0 +1,2 @@
+# User-Registration-System-and-Multiple-Middlewares
+Registration-System-and-Multiple-Middileware-and-different-Roles  A simple User registration Project .Here Users can register this system fill up some required fields . After Succesfully registered user can login by his/her email and password and he can see dashboard and change and update his profile .Admin can view total users list and search them to find specific users
